@@ -1,0 +1,32 @@
+  {
+    "msg": "维帆小程序",
+	"newslist": [{
+		"name": "编程语言学习",
+		"e": "http://www.520mg.com/it/#",
+		"c": "",
+		"tip": "曾庆林老师",
+      "ggcs": "",
+        "js": "【游戏】海盗杀杀杀，冲吧勇士！"
+	},{
+		"name": "海盗僵尸杀杀杀",
+		"e": "https://www.17sucai.com/preview/1750622/2019-09-08/js/index.html?ushsp=true&pic=false&dhl=false&uycl=false",
+		"c": "http://9mtzu0.coding-pages.com/picc/hd.jpg",
+		"tip": "ADDICTING",
+      "ggcs": "",
+        "js": "【游戏】海盗杀杀杀，冲吧勇士！"
+	}, {
+		"name": "爱国style",
+		"e": "http://9mtzu0.coding-pages.com/chinestyle.html",
+		"c": "",
+		"tip": "人民日报",
+       "ggcs": "",
+      "js": "祖国70华诞，56民族56朵花，给你一个完美的照片吧！"
+	}, {
+		"name": "送春联",
+		"e": "http://9mtzu0.coding-pages.com/spring.html",
+		"c": "",
+		"tip": "习主席",
+       "ggcs": "",
+      "js": "2020全面小康，这是最好的时代"
+	}]
+}
