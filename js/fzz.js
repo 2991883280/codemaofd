@@ -3,6 +3,10 @@ var dimeAxis=[{
 	date:'2020.10.5',
 	title:'维帆社东山再起，冷鱼闲风担任社长，开始正式对外招人！',
 	achievement:''
+},{
+	date:'2020.10.5',
+	title:'维帆社网站建设完成，正式向外公布！',
+	achievement:''
 },
 
 
@@ -18,3 +22,13 @@ $(function(){
 		$('.time-axis').append(html);
 	});
 });
+
+
+
+
+
+
+
+
+
+
