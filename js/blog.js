@@ -39,7 +39,7 @@ $(function(){
 	$.each(dimeAxis,function(i,e){
 		if(i==0){$('.time-axis').empty();}
 		var html=' <div class="single-feature">'+
-			'   <a href="./bolgw.html?id='+i+'" class="title" > <img href="img/product.htmlofter.jpg">'+
+			'   <a href="./blogw.html?id='+i+'" class="title" > <img href="img/product.htmlofter.jpg">'+
 			'<h3>《'+e.title+'》</h3></a>'+
 			'<p>作者：'+e.author+'，发表日期：'+e.data+'</p>'+
 			'</div>';
