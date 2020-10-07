@@ -13,6 +13,12 @@
 //这是要遍历博客的数据
 var dimeAxis=[
 
+{
+	author:'冷鱼闲风',
+	title:'Python介绍+好处',
+	url:'https://www.zybuluo.com/vifanlyrs/note/1746971',
+	data:'2020/10/7'
+},
 
 ]
 
