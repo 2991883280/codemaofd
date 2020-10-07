@@ -41,6 +41,7 @@ var dimeAxisl=[
 //列表处理，看不懂就不要动！
 $(function(){
 	$.each(dimeAxisl,function(i,e){
+		if(i==0){$('.time-axis').empty();
 	if(i==0){
 		var ht=' <br><p style="width: 100%;text-align: center;font-size: 50px;height: 40px;color:#000000;font-weight:600;">最新文章</p>';
 			$('.time-').append(ht);
