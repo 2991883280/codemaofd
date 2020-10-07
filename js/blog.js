@@ -12,7 +12,7 @@
 }
 
 //这是要遍历博客的数据
-var dimeAxis=[
+var dimeAxis1=[
 
 {
 	author1:'冷鱼闲风',
@@ -37,7 +37,7 @@ var dimeAxis=[
 
 //列表处理
 $(function(){
-	$.each(dimeAxisl,function(i,e){
+	$.each(dimeAxis1,function(i,e){
 	if(i==0){
 		var ht=' <br><p style="width: 100%;text-align: center;font-size: 50px;height: 40px;color:#000000;font-weight:600;">最新文章</p>';
 			$('.time-').append(ht);
