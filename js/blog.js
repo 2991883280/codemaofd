@@ -1,5 +1,6 @@
-	//博客数据存储	
-//获取网址参数
+//博客数据存储	
+	
+	//获取网址参数
 				function GetQueryString(name) {
      var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
      var r = window.location.search.substr(1).match(reg);
@@ -13,6 +14,8 @@
 
 //这是要遍历博客的数据
 var dimeAxisl=[
+
+
 
 {
 	author1:'冷鱼闲风',
@@ -35,7 +38,7 @@ var dimeAxisl=[
 */
 
 
-//列表处理
+//列表处理，看不懂就不要动！
 $(function(){
 	$.each(dimeAxisl,function(i,e){
 	if(i==0){
