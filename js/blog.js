@@ -43,7 +43,7 @@ $(function(){
 	$.each(dimeAxisl,function(i,e){
 		if(i==0){$('.time-axis').empty();}
 	if(i==0){
-		var ht=' <br><p style="width: 100%;font-size: 50px;height: 40px;color:#000000;font-weight:600;text-indent：4.5cm;">最新文章</p>';
+		var ht=' <br><style type="text/css">.pp {text-indent: 4.5cm}</style><p class="pp" style="font-size: 50px;height: 40px;color:#000000;font-weight:600;">最新文章</p>';
 			$('.time-').append(ht);
 		}
 		
