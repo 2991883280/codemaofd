@@ -15,10 +15,10 @@
 var dimeAxis=[
 
 {
-	author:'冷鱼闲风',
-	title:'Python介绍+好处',
-	url:'https://www.zybuluo.com/vifanlyrs/note/1746971',
-	data:'2020/10/7'
+	author1:'冷鱼闲风',
+	title1:'Python介绍+好处',
+	url1:'https://www.zybuluo.com/vifanlyrs/note/1746971',
+	data1:'2020/10/7'
 },
 
 ]
@@ -26,10 +26,10 @@ var dimeAxis=[
 /*
 
 {
-	author:'冷鱼闲风',
-	title:'冷哈哈哈',
-	url:'https://www.zybuluo.com/vifanlyrs/note/1746971',
-	data:'2020/10/6'
+	author1:'冷鱼闲风',
+	title1:'冷哈哈哈',
+	url1:'https://www.zybuluo.com/vifanlyrs/note/1746971',
+	data1:'2020/10/6'
 },
 
 */
