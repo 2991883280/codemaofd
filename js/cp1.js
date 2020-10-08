@@ -1,6 +1,11 @@
 //这是要遍历产品轴的数据
 var dimeAxis=[
-
+{
+	data:'这本电子书是搬过来的',
+	title:'算法导论(原书第3版) 中文完整版-pdf文档',
+	author:'33工作',
+	url:'https://www.lanzoux.com/iQiQkh9uokf'
+},	
 {
 	data:'（半成品）压缩包里面有说明，拿去参考把~',
 	title:'鼠标闯关-py源',
