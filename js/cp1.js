@@ -58,6 +58,26 @@ var html=' <div class="single-feature">'+
 			'<p>作者：'+e.author+'，介绍：'+e.data+'</p>'+
 			'</div>';
 		$('.time-axis').append(html);
+
+		
+		
+		
+			
+		if(e.author==GetQueryString("name")){
+			
+			
+
+var htmll=' <div class="single-feature">'+
+			'   <a href="'+e.url+'" class="title" target="_blank"> <img href="img/product.htmlofter.jpg">'+
+			'<h3>《'+e.title+'》</h3></a>'+
+				'<p>介绍：'+e.data+'</p>'+
+			'</div>';
+		$('.grzp').append(htmll);
+
+
+
+		}
+		
 	});
 });
  
