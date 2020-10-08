@@ -55,7 +55,7 @@ $(function(){
 var html=' <div class="single-feature">'+
 			'   <a href="'+e.url+'" class="title" target="_blank"> <img href="img/product.htmlofter.jpg">'+
 			'<h3>'+e.title+'</h3></a>'+
-			'<p>'+e.data+'</p>'+
+			'<p>作者：'+e.author+'，介绍：'+e.data+'</p>'+
 			'</div>';
 		$('.time-axis').append(html);
 	});
