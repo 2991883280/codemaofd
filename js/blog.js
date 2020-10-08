@@ -15,6 +15,12 @@
 //这是要遍历博客的数据
 var dimeAxisl=[
 
+{
+	author1:'冷鱼闲风',
+	title1:'如何管理好团队',
+	url1:'https://www.zybuluo.com/vifanlyrs/note/1747220',
+	data1:'2020/10/8'
+},
 
 
 {
@@ -24,18 +30,10 @@ var dimeAxisl=[
 	data1:'2020/10/7'
 },
 
+
 ]
 
-/*
 
-{
-	author1:'冷鱼闲风',
-	title1:'冷哈哈哈',
-	url1:'https://www.zybuluo.com/vifanlyrs/note/1746971',
-	data1:'2020/10/6'
-},
-
-*/
 
 
 //列表处理，看不懂就不要动！
