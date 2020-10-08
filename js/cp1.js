@@ -45,7 +45,7 @@ $(function(){
 			if(i==0){
 				$('.time-axis').empty();
 			
-		var ht=' <br><p style="width: 100%;text-align: center;font-size: 50px;height: 40px;color:#000000;font-weight:600;">最新作品</p>';
+		var ht=' <br><p style="width: 100%;text-align: center;font-size: 50px;height: 40px;color:#000000;font-weight:600;">最新文件</p>';
 			$('.time-a').append(ht);
 		}
 		
@@ -55,7 +55,7 @@ $(function(){
 var html=' <div class="single-feature">'+
 			'   <a href="'+e.url+'" class="title" target="_blank"> <img href="img/product.htmlofter.jpg">'+
 			'<h3>《'+e.title+'》</h3></a>'+
-				'<p>作者：'+e.author+'，介绍：'+e.data+'</p>'+
+				'<p>发布者：'+e.author+'，介绍：'+e.data+'</p>'+
 			'</div>';
 		$('.time-axis').append(html);
 		
@@ -71,7 +71,7 @@ var html=' <div class="single-feature">'+
 	var html=' <div class="single-feature">'+
 			'   <a href="'+e.url+'" class="title" > <img href="img/product.htmlofter.jpg">'+
 			'<h3>《'+e.title+'》</h3></a>'+
-			'<p>作者：'+e.author+'，介绍：'+e.data+'</p>'+
+			'<p>发布者：'+e.author+'，介绍：'+e.data+'</p>'+
 			'</div>';
 		$('.time-a').append(html);
 				
