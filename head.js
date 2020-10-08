@@ -17,6 +17,7 @@ document.writeln("        </li>");
 document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>团队招新</a>");
 document.writeln("          <ul>");
 document.writeln("           <li><a href=\'dingyiyu.html\'>招新主页</a></li>");
+document.writeln("           <li><a href=\'zw.html\'>荣誉职位</a></li>");
 document.writeln("          </ul>");
 document.writeln("        </li>");
 document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>关于维帆</a>");
