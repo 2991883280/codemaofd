@@ -7,7 +7,7 @@ document.writeln("  		</div>");
 document.writeln("  		<nav id=\'nav-menu-container\'>");
 document.writeln("  		<ul class=\'nav-menu\'>");
 document.writeln("  			<li class=\'menu-active\'><a href=\'index.html\'>首页</a></li>");
-document.writeln("  			<li class=\'menu-active\'><a href=\'cp.html\'>社员作品</a></li>");
+document.writeln("  			<li class=\'menu-active\'><a href=\'cp.html\'>文件共享</a></li>");
 document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>官方博客</a>");
 document.writeln("          <ul>");
 document.writeln("           <li><a href=\'blog.html\'>博客主页</a></li>");
