@@ -1,8 +1,48 @@
 //这是要遍历产品轴的数据
 var dimeAxis=[
+		{
+	data:'我在逗帆时开发的SDK，一键式对接图灵机器人！',
+	title:'逗帆图灵机器人对接动态网站SDK',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/iHgufhacqdi'
+},
+		{
+	data:'建立一个网站商店就是如此简单',
+	title:'阿里子订单系统破解版网站动态源码',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/ijulXhacqaf'
+},
+	
+		{
+	data:'可以调用系统TTS哦！',
+	title:'语言交互TTS网站静态源码',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/iD5JChacpyd'
+},
+	
+	
+	
+	{
+	data:'有趣的图片动起来，配音乐哦~',
+	title:'让你的图片动起来网站静态源码',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/iTAL5hacprg'
+},
+	
+	
+		
+{
+	data:'防站工具，超好用的网站另存为',
+	title:'网站依赖文件一键式保存',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/iukkGhacppe'
+},
+	
+	
+	
 {
 	data:'这本电子书是搬过来的',
-	title:'算法导论(原书第3版) 中文完整版-pdf文档',
+	title:'算法导论(原书第3版) 中文完整版',
 	author:'33工作',
 	url:'https://www.lanzoux.com/iQiQkh9uokf'
 },	
