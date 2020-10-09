@@ -1,5 +1,12 @@
 //这是要遍历产品轴的数据
 var dimeAxis=[
+	
+		{
+	data:'分散程序集成安装包，简单而快速打包',
+	title:'PC程序打包成安装包',
+	author:'冷鱼闲风',
+	url:'https://www.lanzoux.com/iNlw2had20h'
+},
 		{
 	data:'我在逗帆时开发的SDK，一键式对接图灵机器人！',
 	title:'逗帆图灵机器人对接动态网站SDK',
