@@ -35,7 +35,7 @@ var dimeAxis=[
 	name:'Python游戏技术员',
 	bm:'技术部门',
 	bmz:'陈年老桉',
-	gznr:'1、暂无需求',
+	gznr:'1、掌握Python基础语法与编写能力<br>2、能使用Pygame库开发简单游戏<br>3、具有合作探究能力',
 	zwdj:'职务等级：技术员--高级技术员--首席技术员'
 },	
 {
