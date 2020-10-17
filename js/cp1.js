@@ -56,7 +56,7 @@ var dimeAxis=[
 {
 	data:'（半成品）压缩包里面有说明，拿去参考把~',
 	title:'鼠标闯关-py源',
-	author:'陈年老按',
+	author:'陈年老桉',
 	url:'https://www.lanzoux.com/i63YIh8n5mf'
 },	
 {
