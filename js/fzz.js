@@ -10,7 +10,7 @@ var dimeAxis=[{
 },{
 	date:'2020.10.25',
 	title:'bcmapi库（Python）完成升级，开发者：SS_LMgXn，冷鱼闲风',
-	achievement:'库文档：http://doc.viyrs.com'
+	achievement:'库文档：<a href="http://doc.viyrs.com">http://doc.viyrs.com</a>'
 },
 
 
