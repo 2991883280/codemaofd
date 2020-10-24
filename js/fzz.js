@@ -7,6 +7,10 @@ var dimeAxis=[{
 	date:'2020.10.8',
 	title:'维帆社网站建设完成，正式向外公布！并且开始招人',
 	achievement:''
+},{
+	date:'2020.10.25',
+	title:'bcmapi库（Python）完成升级，开发者：SS_LMgXn，冷鱼闲风',
+	achievement:'库文档：http://doc.viyrs.com'
 },
 
 
