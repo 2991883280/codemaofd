@@ -23,7 +23,16 @@ var dimeAxis=[
 	kfz:'SS_LiMgXn,冷鱼闲风',
 	url:'http://doc.viyrs.com/cdmaoapi.py',
 	help:'http://doc.viyrs.com/cdmaoapi'
+},	{
+
+	data:'2020年11月12日',
+	title:'输入自己或对方用户ID,一键式生成可视化个人图表，作品前7个对比分析，还有粉丝（完整）显示，说不定让你大吃一惊哦~还可以生成海报哦~快去使用看看吧',
+	author:'编程猫个人大数据生成',
+	kfz:'冷鱼闲风',
+	url:'https://vifan.lanzoux.com/idNwBjb9cub',
+	help:'#'
 },	
+
 
 ]
 	
