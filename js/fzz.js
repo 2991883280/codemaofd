@@ -12,7 +12,11 @@ var dimeAxis=[{
 	title:'bcmapi库（Python）完成升级，开发者：SS_LMgXn，冷鱼闲风',
 	achievement:'库文档：<a href="http://doc.viyrs.com">http://doc.viyrs.com</a>'
 },
-
+{
+	date:'2020.12.12',
+	title:'编程猫个人大数据生成器发布，开发者：冷鱼闲风',
+	achievement:'数据是由Python+Wed交互生成，在本地即可生成，生成速度快。'
+},
 
 ]
 //以下是样式，一般不用改动，看不懂就算了，反正到时候都要重写
