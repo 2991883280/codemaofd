@@ -1,5 +1,11 @@
 //这是要遍历产品轴的数据
 var dimeAxis=[
+	{
+	data:'只需要一条网址，所以网页依赖文件全下载！',
+	title:'防站工具',
+	author:'冷鱼闲风',
+	url:'https://vifan.lanzoui.com/ilaIhllwbte'
+},
 {
 	data:'我的世界启动器',
 	title:'PCL启动器',
