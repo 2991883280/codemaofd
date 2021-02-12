@@ -14,6 +14,12 @@
 
 //这是要遍历博客的数据
 var dimeAxisl=[
+{
+	author1:'冷鱼闲风',
+	title1:'维帆社新春福利派送',
+	url1:'https://www.zybuluo.com/vifanlyrs/note/1776261',
+	data1:'2021/02/12'
+},
 
 {
 	author1:'冷鱼闲风',
