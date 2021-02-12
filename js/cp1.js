@@ -1,6 +1,11 @@
 //这是要遍历产品轴的数据
 var dimeAxis=[
-
+{
+	data:'我的世界启动器',
+	title:'PCL启动器',
+	author:'_明某人_',
+	url:'https://vifan.lanzoui.com/iy0idllvqze'
+},
 	{
 	data:'设计符号个性昵称工具，涵盖了全网特殊字符、独家花样符号',
 	title:'字符君(安卓)',
