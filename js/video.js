@@ -2,8 +2,8 @@
 var dimeAxis=[
 	
 {
-	url:'https://pan.baidu.com/s/1ZXJ1U2pL7DRoCb7TvvChQg',
-	js:'类似AI大黄鸡的自动化到作品评论区进行评论的实现方法，使用python制作，简单方便，快来试试吧！作者：冷鱼闲风。视频提取码：3uj2',
+	url:'https://v.youku.com/v_show/id_XNTEwNzY0MDU2MA==.html',
+	js:'类似AI大黄鸡的自动化到作品评论区进行评论的实现方法，使用python制作，简单方便，快来试试吧！作者：冷鱼闲风。',
 	title:'编程猫作品AI评论【批量】'
 },
 ]
