@@ -18,7 +18,7 @@ var htmll='<div class="video">'+
               '<h1>'+e.title+'</h1>'+
 			  '<hr  size="15px" color="#777777">'+
       '<p>  '+e.js+'</p>'+
-	  '<a href="+e.url+" target="_blank"><input  type="button" value="查看视频" class="an"></a> '+
+	  '<a href="'+e.url+'" target="_blank"><input  type="button" value="查看视频" class="an"></a> '+
          ' </div></div>';
 		$('.time-axis').append(htmll);
 	
