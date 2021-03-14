@@ -16,6 +16,7 @@ document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>社团产品
 document.writeln("          <ul>");
 document.writeln("           <li><a href=\'pl.html?name=cdmaoapi库'>cdmaoapi库</a></li>");
 document.writeln("           <li><a href=\'pl.html?name=编程猫个人大数据'>编程猫个人大数据</a></li>");
+document.writeln("           <li><a href=\'pl.html?name=编程猫AI批量评论作品'>编程猫AI批量评论作品</a></li>");
 document.writeln("           <li><a href=\'http://mc.viyrs.com'>MC服务器游玩</a></li>");
 document.writeln("          </ul>");
 document.writeln("        </li>");
