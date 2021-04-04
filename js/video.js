@@ -20,7 +20,8 @@ var dimeAxis=[
 $(function(){
 	$.each(dimeAxis,function(i,e){
 		
-			$('.time-axis').empty();
+			
+		if(i==0){$('.time-axis').empty();}
 var htmll='<div class="video">'+
               '<h1>'+e.title+'</h1>'+
 			  '<hr  size="15px" color="#777777">'+
