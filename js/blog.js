@@ -14,6 +14,35 @@
 
 //这是要遍历博客的数据
 var dimeAxisl=[
+	{
+	author1:'冷鱼闲风',
+	title1:'【设计心理学科普】人的动机来源',
+	url1:'https://shequ.codemao.cn/community/370739',
+	data1:'2021/04/1'
+},
+
+		{
+	author1:'冷鱼闲风',
+	title1:'著名的哈勃定律：星系不断远离，宇宙不断膨胀',
+	url1:'https://shequ.codemao.cn/community/370791',
+	data1:'2021/04/2'
+},
+
+	
+	{
+	author1:'冷鱼闲风',
+	title1:'【后援会+官方支持】模拟AI大黄鸡程序（双端版）',
+	url1:'https://shequ.codemao.cn/wiki/forum/371149',
+	data1:'2021/04/4'
+},
+
+
+	{
+	author1:'冷鱼闲风',
+	title1:'【编程猫实时获取评论】挂在电脑后台，新消息自动提醒',
+	url1:'https://shequ.codemao.cn/community/368905',
+	data1:'2021/03/26'
+},
 {
 	author1:'冷鱼闲风',
 	title1:'维帆社新春福利派送',
@@ -21,20 +50,10 @@ var dimeAxisl=[
 	data1:'2021/02/12'
 },
 
-{
-	author1:'冷鱼闲风',
-	title1:'如何管理好团队',
-	url1:'https://www.zybuluo.com/vifanlyrs/note/1747220',
-	data1:'2020/10/8'
-},
 
 
-{
-	author1:'冷鱼闲风',
-	title1:'Python介绍+好处',
-	url1:'https://www.zybuluo.com/vifanlyrs/note/1746971',
-	data1:'2020/10/7'
-},
+
+
 
 
 ]
