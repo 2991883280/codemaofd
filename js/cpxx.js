@@ -34,11 +34,11 @@ var dimeAxis=[
 },	
 {
 
-	data:'2021年3月14日',
-	title:'模拟官方AI大黄鸡效果，不仅仅是评论，还有点赞奥！还可以发送表情，快去试试吧！这个被别人叫做：朋友收割机。注意不要用作违法行为！',
+	data:'2021年4月4日',
+	title:'[编程猫后援会合作项目]模拟官方AI大黄鸡效果，不仅仅是评论，还有点赞奥！还可以发送表情，快去试试吧！这个被别人叫做：朋友收割机。注意不要用作违法行为！',
 	author:'编程猫AI批量评论作品',
 	kfz:'冷鱼闲风',
-	url:'http://vifan.lanzoui.com/i1GVJmx2e2d',
+	url:'https://shequ.codemao.cn/wiki/forum/371149',
 	help:'https://www.bilibili.com/video/BV1ny4y187zN/'
 },	
 
