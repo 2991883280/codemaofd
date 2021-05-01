@@ -7,6 +7,12 @@ document.writeln("  		</div>");
 document.writeln("  		<nav id=\'nav-menu-container\'>");
 document.writeln("  		<ul class=\'nav-menu\'>");
 document.writeln("  			<li class=\'menu-active\'><a href=\'index.html\'>首页</a></li>");
+document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>赛事</a>");
+document.writeln("          <ul>");
+document.writeln("           <li><a href=\'http://cloud.viyrs.com/2021/'>多维杯</a></li>");
+
+document.writeln("          </ul>");
+
 document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>视频/文件</a>");
 document.writeln("          <ul>");
 document.writeln("           <li><a href=\'cp.html'>文件共享</a></li>");
