@@ -9,7 +9,7 @@ document.writeln("  		<ul class=\'nav-menu\'>");
 document.writeln("  			<li class=\'menu-active\'><a href=\'index.html\'>首页</a></li>");
 document.writeln("  			<li class=\'menu-has-children\'><a href=\'#'>赛事</a>");
 document.writeln("          <ul>");
-document.writeln("           <li><a href=\'NPCDC.html/'>多维杯</a></li>");
+document.writeln("           <li><a href=\'NPCDC.html\'>多维杯</a></li>");
 
 document.writeln("          </ul>");
 
