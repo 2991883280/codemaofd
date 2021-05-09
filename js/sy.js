@@ -149,7 +149,7 @@ var dimeAxis1=[
 
 {
 	qq:'1024728281',
-	author1:'SS_LMgXn',
+	author1:'ForbiddenForever',
 	jj:'正如名字是个萌新awa，倒过来倒过去也是萌新',
 	zw:'Python工程师',
 	xxzw:'<p>Python工程师</p>',
