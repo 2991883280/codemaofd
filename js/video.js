@@ -1,6 +1,10 @@
 //这是要遍历视频轴的数据
 var dimeAxis=[
-	
+	{
+	url:'https://www.bilibili.com/video/BV1WK411V7dn',
+	js:'社长推荐！这系列教程视频全免费，并且讲的很详细，非常适合入门者。作者：阿发你好AF',
+	title:'Unity2020入门教程 2D/3D游戏开发'
+},
 {
 	url:'https://www.bilibili.com/video/BV1Wz4y1m7C9/',
 	js:'类似AI大黄鸡的自动化到作品评论区进行评论的实现方法，使用python制作，简单方便，快来试试吧！作者：冷鱼闲风。',
